@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New feature implemented
+          New feature XX
         </a>
       </header>
     </div>
